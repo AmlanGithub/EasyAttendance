@@ -1,0 +1,2 @@
+# EasyAttendance
+Minor Project
