@@ -1,2 +1,2 @@
-# EasyAttendance
+# Secure-Messenger
 Minor Project
